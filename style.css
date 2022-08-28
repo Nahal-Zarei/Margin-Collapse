@@ -1,0 +1,15 @@
+.p1 {
+    background-color: aquamarine;
+    margin-top: 25px;
+    margin-bottom: 70px;
+}
+
+.p2 {
+    background-color: chartreuse;
+    margin-top: 70px;
+    margin-bottom: 25px;
+}
+
+body {
+    background-color: darkgray;
+}
